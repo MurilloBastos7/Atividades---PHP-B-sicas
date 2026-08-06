@@ -1,4 +1,5 @@
 Código `case.php`
+---
 ```bash
 <?php 
 // Exemplo de switch case:
@@ -37,8 +38,9 @@ switch($dia) {
 }
 ?>
 ```
-
 Código `if.php`
+---
+
 ```bash
 <?php 
 $funcionario = 50;
