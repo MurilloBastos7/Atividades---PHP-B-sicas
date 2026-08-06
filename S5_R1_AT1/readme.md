@@ -8,6 +8,13 @@ Durante o desenvolvimento foram aplicados conceitos básicos de programação pa
 
 ---
 
+## Site:
+
+<img width="764" height="246" alt="image" src="https://github.com/user-attachments/assets/bab763de-b8e0-4dc7-8cd7-f2af8a239d4b" />
+
+---
+
+
 ## 🎯 Objetivos
 
 * Compreender a estrutura básica de um arquivo PHP;
