@@ -1,4 +1,7 @@
 <?php 
+echo "<h1>Empresa: Cena Imobiliário</h1>";
+echo "<h4>Conectando você ao imóvel ideal. Encontre casas, apartamentos e oportunidades com praticidade, confiança e segurança para realizar seus planos.</h4>";
+
 // no "$funcionarios" coloquei as informações dos colaboradores como nome, idade, etc...
 $funcionarios = [
     ["nome" => "Murillo",
