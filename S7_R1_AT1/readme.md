@@ -1,6 +1,6 @@
 # Cadastro de Funcionários em PHP
 
-![alt text](image.png)
+<img width="1509" height="683" alt="Captura de tela 2026-08-11 104246" src="https://github.com/user-attachments/assets/1ba81b51-82f3-4cda-8813-56448c9b98ef" />
 
 ## Sobre a atividade
 
