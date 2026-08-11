@@ -1,4 +1,5 @@
 <?php 
+// Coloquei o nome e a descrição da empresa!
 echo "<h1>Empresa: Cena Imobiliário</h1>";
 echo "<h4>Conectando você ao imóvel ideal. Encontre casas, apartamentos e oportunidades com praticidade, confiança e segurança para realizar seus planos.</h4>";
 
