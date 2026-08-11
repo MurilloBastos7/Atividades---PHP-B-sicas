@@ -48,6 +48,29 @@ Com essa atividade foi possível praticar:
 * Uso do `foreach`;
 * Exibição e organização de informações na tela.
 
+## Como acessar o site
+
+Para acessar o site, siga os passos abaixo:
+
+1. Baixe ou clone este repositório.
+2. Coloque a pasta do projeto dentro da pasta `htdocs` do XAMPP.
+3. Abra o **XAMPP** e inicie o servidor **Apache**.
+4. Abra o navegador.
+5. Digite na barra de endereço:
+
+```text
+http://localhost/nome-da-pasta-do-projeto/
+```
+
+Depois disso, o site será carregado no navegador.
+
+> Exemplo: se a pasta do projeto se chamar `Cena-Imobiliario`, acesse:
+
+```text
+http://localhost/Cena-Imobiliario/
+```
+
+
 ## Conclusão
 
 Essa atividade ajudou a entender melhor como guardar vários dados em um array e como utilizar o `foreach` para mostrar essas informações de forma simples e organizada.
