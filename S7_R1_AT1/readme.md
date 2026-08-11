@@ -45,9 +45,7 @@ O `<br>` serve para quebrar a linha entre as informações e o `<hr>` cria uma l
 Com essa atividade foi possível praticar:
 
 * Arrays em PHP;
-* Arrays associativos;
 * Uso do `foreach`;
-* Uso do `echo`;
 * Exibição e organização de informações na tela.
 
 ## Conclusão
