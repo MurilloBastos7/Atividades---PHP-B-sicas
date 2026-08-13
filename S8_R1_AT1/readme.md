@@ -4,6 +4,11 @@
 
 Nessa atividade, desenvolvi uma página usando **HTML e PHP** para mostrar as informações de um colaborador da empresa. Também criei funções para verificar se ele pode trabalhar e se pode fazer hora extra.
 
+## Como ficou
+
+![alt text](<Captura de tela 2026-08-13 152927.png>)
+---
+
 ## Código
 
 ```php
@@ -100,24 +105,6 @@ A função `hora()` verifica a quantidade de horas trabalhadas por semana:
 * Com menos de 44 horas, não pode fazer hora extra.
 
 No exemplo, coloquei **40 horas**, então aparece que o colaborador não pode fazer hora extra.
-
-Nessa atividade, eu usei **HTML e PHP** para praticar a criação de funções. Fiz duas funções para realizar contas matemáticas, uma para verificar a idade de uma pessoa e também coloquei o link do meu GitHub no final da página.
-
-## Funções criadas
-
-### Função de adição
-
-A função `adicao` recebe dois números e faz a soma entre eles. Nesse exemplo, usei os números 10 e 90, e o resultado foi **100**.
-
-### Função de multiplicação
-
-A função `multi` também recebe dois números, mas faz a multiplicação. Foram usados os números 100 e 9, resultando em **900**.
-
-### Função de verificação de idade
-
-A função `verif` verifica a idade da pessoa. Se ela tiver 15 anos ou mais, aparece a mensagem **“Pode jogar bola!”**. Se tiver menos de 15 anos, aparece **“Não pode jogar bola!”**.
-
-No código, coloquei a idade 11, então a pessoa não pode jogar bola.
 
 ## Tecnologias utilizadas
 
