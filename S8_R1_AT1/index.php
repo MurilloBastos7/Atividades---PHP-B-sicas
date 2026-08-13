@@ -3,37 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autonomia Assistida</title>
+    <title>Imobiliária</title>
 </head>
-<h2>Atividade S8_R1_AT1</h2>
+<h2>Empresa Cena Aprendiz</h2>
 <body>
-    <?php 
-    // User uma função para fazer soma(adição)
-    echo "Função 1<br>";
-    function adicao($a,$b){
-        echo "A soma é:". $a + $b;
-    };
-    adicao(10,90);
+    <?php
+    // Coloquei o nome do colaborador e cargo.
+    $colaborador = [
+    "nome" => "<b>Murillo</b>",
+    "cargo" => "<b>Jovem Aprendiz</b>"
+    ];
+    echo "Nome do colaborador:". $colaborador["nome"]."<br>";
+    echo "Cargo do colaborador:". $colaborador["cargo"]."<br>";
+
     echo "<hr>";
 
-    // Essa faz multiplicação
-    echo "Função 2<br>";
-    function multi($a,$b){
-        echo "A multplicação é de:". $a*$b;
-    };
-    multi(100,9);
-    echo "<hr>";
-    
-    // Já essa faz uma verificação de idade
-    echo "Função 3<br>";
+    // Fiz uma função para verificar se pode .
+    echo "Função na empresa.<br>";
     function verif($idade){
-        if ($idade >=15){
-            return "Pode jogar bola!";
+        if ($idade >=18){
+            return "Tem a opção de ser <b>Jovem Aprendiz</b> mas pode ser efetivado dentro da empresa!";
+        } elseif($idade >=16) {
+            return "Pode ser aprendiz!";
         } else {
-            return "Não pode jogar bola!";
+            return "Não pode trabalhar ainda.";
         };
     };
-    echo verif(16);
+    echo verif(18);
+    echo "<hr>";
+
+   echo "<b>Jovem Aprendiz</b><br>";
+
+   // Hora extra
+    echo "Hora extra.<br>";
+    function hora($horas){
+        if ($horas >=44){
+            return "Pode fazer hora extra! Você contem 44 horas semanais ou mais...";
+        } else {
+            return "<b>Não pode</b> fazer hora extra!";
+        };
+    };
+    echo hora(40);
     echo "<hr>";
     
     // Coloquei o link do meu GitHub!
