@@ -2,7 +2,6 @@
 
 ## Sobre o projeto
 
-<<<<<<< HEAD
 Nessa atividade, desenvolvi uma página usando **HTML e PHP** para mostrar as informações de um colaborador da empresa. Também criei funções para verificar se ele pode trabalhar e se pode fazer hora extra.
 
 ## Código
