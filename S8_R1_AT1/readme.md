@@ -119,7 +119,6 @@ A função `verif` verifica a idade da pessoa. Se ela tiver 15 anos ou mais, apa
 
 No código, coloquei a idade 11, então a pessoa não pode jogar bola.
 
->>>>>>> 43078de9368eb81fe14e40e6a7f762a1b3733dc1
 ## Tecnologias utilizadas
 
 * HTML;
