@@ -1,5 +1,13 @@
 # Mini Sistema PHP - Sessão e Cookie
 
+## Como ficou:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+---
+
 ## Sobre o projeto
 
 Esse é um mini sistema que eu fiz em PHP pra praticar o uso de **sessão** e **cookie**.
